@@ -7,7 +7,7 @@ Gürkan Sin
 DOI: https://doi.org/10.1111/risa.70194
 
 ## Files
-- `Heaviside.wl` — Symbolic calculation of the Shadow Mean (truncated GPD/Pareto-Lomax)
+
 - `DerivationofShadowMoment.pdf` — Full step-by-step symbolic derivation using dual variable transformation in Mathematica
 
 Open the `.wl` files directly in Mathematica. Everything is self-contained.
