@@ -12,7 +12,7 @@ DOI: https://doi.org/10.1111/risa.70194
 
 - `DerivationofShadowMoment.pdf` — Full step-by-step symbolic derivation using dual variable transformation in Mathematica
 
-Open the `.wl` files directly in Mathematica. Everything is self-contained.
+Open the `.nb` files directly in Mathematica. Everything is self-contained.
 
 License: MIT  
 Created March 2026 by GSI Research Group (gsi-lab)
