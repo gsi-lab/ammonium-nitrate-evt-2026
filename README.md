@@ -13,7 +13,7 @@ DOI: https://doi.org/10.1111/risa.70194
 ## Files
 - `ShadowMean_GPD.nb` — Clean Mathematica notebook with the symbolic dual-variable transformation and closed-form **Shadow Mean** derivation (the version featured by Wolfram)
 - `AnalyticalDerivationShadowMoment.pdf` — Step-by-step derivation (same as in the Staff Pick)
-- `MATLAB/` folder — Main MATLAB scripts used in the paper (data processing, temporal analysis, EVT fitting, etc.)
+- `MATLAB/` folder — Main MATLAB scripts used in the paper (data processing, temporal analysis, etc.)
 
 Open the `.nb` file directly in Mathematica. All symbolic derivations are self-contained and reproducible.
 
