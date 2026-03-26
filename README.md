@@ -5,7 +5,8 @@ Companion code for the published paper:
 Gürkan Sin  
 *Risk Analysis*, 2026  
 DOI: https://doi.org/10.1111/risa.70194
-
+**Featured as a Wolfram Staff Pick**  
+→ https://community.wolfram.com/groups/-/m/t/3669326
 ## Files
 
 - `DerivationofShadowMoment.pdf` — Full step-by-step symbolic derivation using dual variable transformation in Mathematica
